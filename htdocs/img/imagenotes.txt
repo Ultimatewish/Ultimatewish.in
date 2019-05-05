@@ -1,0 +1,7 @@
+1. Corner: CornerStrip.
+2. DarkBlue: Homepage Text Background.
+3. Download: Names and Flashy Text Background.
+4. Giphy: Quiz Result
+5. Goldenglitter: Luck Percentage
+6. Logo: Website Logo
+7. WhatsApp: Sharing Logo
